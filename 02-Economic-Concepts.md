@@ -1,6 +1,6 @@
 # Economic Concepts & Business Cycles
 
-[← Previous: Understanding Personal Finance](01-Understanding-Personal-Finance.md) | [Back to Home](README.md) | [Next: Inflation & Interest Rates →](03-Inflation-Interest-Rates.md)
+[← Previous: Understanding Personal Finance](01-Understanding-Personal-Finance.md) | [Back to Home](index.md) | [Next: Inflation & Interest Rates →](03-Inflation-Interest-Rates.md)
 
 ---
 
@@ -150,4 +150,4 @@
 
 ---
 
-[← Previous: Understanding Personal Finance](01-Understanding-Personal-Finance.md) | [Back to Home](README.md) | [Next: Inflation & Interest Rates →](03-Inflation-Interest-Rates.md)
+[← Previous: Understanding Personal Finance](01-Understanding-Personal-Finance.md) | [Back to Home](index.md) | [Next: Inflation & Interest Rates →](03-Inflation-Interest-Rates.md)

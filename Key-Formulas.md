@@ -1,6 +1,6 @@
 # Key Formulas Reference
 
-[Back to Home](README.md)
+[Back to Home](index.md)
 
 ---
 
@@ -568,4 +568,4 @@ If extra benefits worth less than $60 → Choose regular
 
 **Print this page for quick exam reference! 📄**
 
-[Back to Home](README.md)
+[Back to Home](index.md)

@@ -1,6 +1,6 @@
 # Time Value of Money (TVM)
 
-[← Previous: Inflation & Interest Rates](03-Inflation-Interest-Rates.md) | [Back to Home](README.md) | [Next: Economic Decision Making →](05-Economic-Decision-Making.md)
+[← Previous: Inflation & Interest Rates](03-Inflation-Interest-Rates.md) | [Back to Home](index.md) | [Next: Economic Decision Making →](05-Economic-Decision-Making.md)
 
 ---
 
@@ -297,4 +297,4 @@ i = $1,000[(1 + 0.08)⁴⁰ - 1] = $20,724.52
 
 ---
 
-[← Previous: Inflation & Interest Rates](03-Inflation-Interest-Rates.md) | [Back to Home](README.md) | [Next: Economic Decision Making →](05-Economic-Decision-Making.md)
+[← Previous: Inflation & Interest Rates](03-Inflation-Interest-Rates.md) | [Back to Home](index.md) | [Next: Economic Decision Making →](05-Economic-Decision-Making.md)

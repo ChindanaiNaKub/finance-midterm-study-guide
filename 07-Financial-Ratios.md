@@ -1,6 +1,6 @@
 # Financial Ratios
 
-[← Previous: Financial Statements](06-Financial-Statements.md) | [Back to Home](README.md) | [Next: Tax Management →](08-Tax-Management.md)
+[← Previous: Financial Statements](06-Financial-Statements.md) | [Back to Home](index.md) | [Next: Tax Management →](08-Tax-Management.md)
 
 ---
 
@@ -333,4 +333,4 @@ Investment Assets-to-Total Assets Ratio = Investment Assets / Total Assets
 
 ---
 
-[← Previous: Financial Statements](06-Financial-Statements.md) | [Back to Home](README.md) | [Next: Tax Management →](08-Tax-Management.md)
+[← Previous: Financial Statements](06-Financial-Statements.md) | [Back to Home](index.md) | [Next: Tax Management →](08-Tax-Management.md)

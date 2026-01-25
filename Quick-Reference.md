@@ -1,6 +1,6 @@
 # Quick Reference Cheat Sheet
 
-[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](README.md)
+[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](index.md)
 
 ---
 
@@ -319,4 +319,4 @@ Net = $750
 
 **Good luck on your exam! 📚✨**
 
-[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](README.md)
+[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](index.md)

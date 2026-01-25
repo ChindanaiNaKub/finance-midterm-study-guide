@@ -1,6 +1,6 @@
 # Inflation, Prices & Interest Rates
 
-[← Previous: Economic Concepts](02-Economic-Concepts.md) | [Back to Home](README.md) | [Next: Time Value of Money →](04-Time-Value-Money.md)
+[← Previous: Economic Concepts](02-Economic-Concepts.md) | [Back to Home](index.md) | [Next: Time Value of Money →](04-Time-Value-Money.md)
 
 ---
 
@@ -181,4 +181,4 @@ Economy Overheating → Raise rates → Expensive borrowing → Less spending �
 
 ---
 
-[← Previous: Economic Concepts](02-Economic-Concepts.md) | [Back to Home](README.md) | [Next: Time Value of Money →](04-Time-Value-Money.md)
+[← Previous: Economic Concepts](02-Economic-Concepts.md) | [Back to Home](index.md) | [Next: Time Value of Money →](04-Time-Value-Money.md)

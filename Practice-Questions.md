@@ -1,6 +1,6 @@
 # Practice Questions
 
-[← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](README.md) | [Next: Quick Reference →](Quick-Reference.md)
+[← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](index.md) | [Next: Quick Reference →](Quick-Reference.md)
 
 
 
@@ -771,4 +771,4 @@ $2,000 ≈ $1,974 ✓ (close!)</code></pre>
 
 
 
-[← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](README.md) | [Next: Quick Reference →](Quick-Reference.md)
+[← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](index.md) | [Next: Quick Reference →](Quick-Reference.md)

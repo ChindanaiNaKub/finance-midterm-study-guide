@@ -1,6 +1,6 @@
 # Economic Decision Making
 
-[← Previous: Time Value of Money](04-Time-Value-Money.md) | [Back to Home](README.md) | [Next: Financial Statements →](06-Financial-Statements.md)
+[← Previous: Time Value of Money](04-Time-Value-Money.md) | [Back to Home](index.md) | [Next: Financial Statements →](06-Financial-Statements.md)
 
 ---
 
@@ -297,4 +297,4 @@ Tax on bonus = $1,000 × 0.25 = $250
 
 ---
 
-[← Previous: Time Value of Money](04-Time-Value-Money.md) | [Back to Home](README.md) | [Next: Financial Statements →](06-Financial-Statements.md)
+[← Previous: Time Value of Money](04-Time-Value-Money.md) | [Back to Home](index.md) | [Next: Financial Statements →](06-Financial-Statements.md)

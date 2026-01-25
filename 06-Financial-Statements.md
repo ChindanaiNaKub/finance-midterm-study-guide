@@ -1,6 +1,6 @@
 # Financial Statements & Budgeting
 
-[← Previous: Economic Decision Making](05-Economic-Decision-Making.md) | [Back to Home](README.md) | [Next: Financial Ratios →](07-Financial-Ratios.md)
+[← Previous: Economic Decision Making](05-Economic-Decision-Making.md) | [Back to Home](index.md) | [Next: Financial Ratios →](07-Financial-Ratios.md)
 
 ---
 
@@ -345,4 +345,4 @@ Discretionary Income = Disposable Income - Necessities
 
 ---
 
-[← Previous: Economic Decision Making](05-Economic-Decision-Making.md) | [Back to Home](README.md) | [Next: Financial Ratios →](07-Financial-Ratios.md)
+[← Previous: Economic Decision Making](05-Economic-Decision-Making.md) | [Back to Home](index.md) | [Next: Financial Ratios →](07-Financial-Ratios.md)

@@ -1,6 +1,6 @@
 # Managing Income Taxes
 
-[← Previous: Financial Ratios](07-Financial-Ratios.md) | [Back to Home](README.md) | [Next: Practice Questions →](Practice-Questions.md)
+[← Previous: Financial Ratios](07-Financial-Ratios.md) | [Back to Home](index.md) | [Next: Practice Questions →](Practice-Questions.md)
 
 ---
 
@@ -417,4 +417,4 @@ Total = $6,187.50
 
 ---
 
-[← Previous: Financial Ratios](07-Financial-Ratios.md) | [Back to Home](README.md) | [Next: Practice Questions →](Practice-Questions.md)
+[← Previous: Financial Ratios](07-Financial-Ratios.md) | [Back to Home](index.md) | [Next: Practice Questions →](Practice-Questions.md)

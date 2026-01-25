@@ -1,6 +1,6 @@
 # Understanding Personal Finance
 
-[← Back to Home](README.md) | [Next: Economic Concepts →](02-Economic-Concepts.md)
+[← Back to Home](index.md) | [Next: Economic Concepts →](02-Economic-Concepts.md)
 
 ---
 
@@ -99,4 +99,4 @@
 
 ---
 
-[← Back to Home](README.md) | [Next: Economic Concepts →](02-Economic-Concepts.md)
+[← Back to Home](index.md) | [Next: Economic Concepts →](02-Economic-Concepts.md)
