@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Collapsible Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        
+        details {
+            margin: 1.5em 0;
+            padding: 1em;
+            background-color: #f6f8fa;
+            border: 1px solid #d1d5da;
+            border-radius: 6px;
+        }
+
+        details summary {
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 1.1em;
+            padding: 0.5em;
+            margin: -1em -1em 0 -1em;
+            background-color: #0366d6;
+            color: white;
+            border-radius: 6px 6px 0 0;
+            user-select: none;
+            list-style: none;
+        }
+
+        details summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details summary::before {
+            content: '▶ ';
+            display: inline-block;
+            transition: transform 0.2s;
+        }
+
+        details[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        details[open] summary {
+            margin-bottom: 1em;
+        }
+
+        details summary:hover {
+            background-color: #0256c7;
+        }
+
+        code {
+            background-color: #f6f8fa;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+        }
+
+        pre {
+            background-color: #f6f8fa;
+            padding: 1em;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test Collapsible Solutions</h1>
+    
+    <h2>Question 1: Present Value</h2>
+    <p>You will receive 10,000 baht one year from now. If the discount rate is 5% per year, what is the current value?</p>
+    
+    <details>
+        <summary>💡 Click to see solution</summary>
+        
+        <p><strong>Formula:</strong></p>
+        <pre><code>PV = FV / (1 + r)ᵗ</code></pre>
+        
+        <p><strong>Given:</strong></p>
+        <ul>
+            <li>FV = 10,000 baht</li>
+            <li>r = 5% = 0.05</li>
+            <li>t = 1 year</li>
+        </ul>
+        
+        <p><strong>Calculation:</strong></p>
+        <pre><code>PV = 10,000 / (1 + 0.05)¹
+PV = 10,000 / 1.05
+PV = 9,523.81 baht</code></pre>
+        
+        <p><strong>✅ Answer: 9,523.81 baht</strong></p>
+    </details>
+    
+    <h2>Question 2: Future Value</h2>
+    <p>How much will 5,000 baht grow to in 2 years at 6%?</p>
+    
+    <details>
+        <summary>💡 Click to see solution</summary>
+        
+        <p><strong>Formula:</strong></p>
+        <pre><code>FV = PV(1 + r)ᵗ</code></pre>
+        
+        <p><strong>Given:</strong></p>
+        <ul>
+            <li>PV = 5,000 baht</li>
+            <li>r = 6% = 0.06</li>
+            <li>t = 2 years</li>
+        </ul>
+        
+        <p><strong>Calculation:</strong></p>
+        <pre><code>FV = 5,000(1 + 0.06)²
+FV = 5,000(1.1236)
+FV = 5,618 baht</code></pre>
+        
+        <p><strong>✅ Answer: 5,618 baht</strong></p>
+    </details>
+
+    <p style="margin-top: 40px; padding: 20px; background-color: #d4edda; border: 1px solid #c3e6cb; border-radius: 6px;">
+        <strong>✅ Test Instructions:</strong><br>
+        1. Click on the blue "💡 Click to see solution" buttons<br>
+        2. Solutions should expand/collapse<br>
+        3. Arrow should rotate when opening<br>
+        4. Try clicking multiple times to toggle
+    </p>
+</body>
+</html>
