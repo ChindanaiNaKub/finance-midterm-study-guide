@@ -1,0 +1,77 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for collapsible solutions */
+details {
+  margin: 1.5em 0;
+  padding: 1em;
+  background-color: #f6f8fa;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1em;
+  padding: 0.5em;
+  margin: -1em -1em 0 -1em;
+  background-color: #0366d6;
+  color: white;
+  border-radius: 6px 6px 0 0;
+  user-select: none;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: '▶ ';
+  display: inline-block;
+  transition: transform 0.2s;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details[open] summary {
+  margin-bottom: 1em;
+  border-radius: 6px 6px 0 0;
+}
+
+details summary:hover {
+  background-color: #0256c7;
+}
+
+details summary:active {
+  background-color: #024ea4;
+}
+
+/* Style the content inside details */
+details > *:not(summary) {
+  margin-top: 1em;
+}
+
+details code {
+  background-color: #f6f8fa;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+details pre {
+  background-color: #f6f8fa;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+details pre code {
+  background-color: transparent;
+  padding: 0;
+}
