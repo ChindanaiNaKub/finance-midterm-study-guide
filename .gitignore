@@ -1,0 +1,24 @@
+# PDF files (source materials - keep private)
+*.pdf
+
+# Personal information
+*_personal.md
+*_private.md
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

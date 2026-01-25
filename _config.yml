@@ -1,0 +1,30 @@
+title: Finance Midterm Study Guide
+description: Comprehensive study guide for Personal Finance midterm exam
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Study Topics
+    url: /#-table-of-contents
+  - title: Practice Questions
+    url: /Practice-Questions
+  - title: Quick Reference
+    url: /Quick-Reference
+  - title: Key Formulas
+    url: /Key-Formulas
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - finance_midterm_merged.pdf
+  - TEMPLATE-FOR-OTHER-SUBJECTS.md
+  - README.md
+  - .gitignore
