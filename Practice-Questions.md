@@ -2,17 +2,14 @@
 
 [← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](README.md) | [Next: Quick Reference →](Quick-Reference.md)
 
----
+
 
 ## Time Value of Money Problems
 
 ### Question 1: Present Value
 You will receive 10,000 baht one year from now. If the discount rate is 5% per year, what is the current value?
 
-<details>
-<summary>💡 Click to see solution</summary>
-
----
+#### 💡 Solution
 
 **Formula:**
 ```
@@ -33,17 +30,12 @@ PV = 9,523.81 baht
 
 **✅ Answer: 9,523.81 baht**
 
-</details>
 
----
 
 ### Question 2: Present Value (Multi-Year)
 A payment of 50,000 baht is due in 3 years. The discount rate is 4%. What is the PV?
 
-<details>
-<summary>💡 Click to see solution</summary>
-
----
+#### 💡 Solution
 
 **Formula:**
 ```
@@ -64,17 +56,12 @@ PV = 44,449.82 baht
 
 **✅ Answer: 44,449.82 baht**
 
-</details>
 
----
 
 ### Question 3: Future Value
 How much will 10,000 baht grow to in 3 years if the interest rate is 6%?
 
-<details>
-<summary>💡 Click to see solution</summary>
-
----
+#### 💡 Solution
 
 **Formula:**
 ```
@@ -95,17 +82,15 @@ FV = 11,910.16 baht
 
 **✅ Answer: 11,910.16 baht**
 
-</details>
 
----
 
 ### Question 4: Future Value (Long-Term)
 You invest 50,000 baht at 8% compounded annually. How much will you have after 5 years?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -126,17 +111,17 @@ FV = 73,466.40 baht
 
 **✅ Answer: 73,466.40 baht**
 
-</details>
 
----
+
+
 
 ### Question 5: Present Value for Goal
 An investor wants 200,000 baht in 4 years. If the interest rate is 6%, how much must they deposit today?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -159,17 +144,17 @@ PV = 158,418.73 baht
 
 **Interpretation:** Need to deposit 158,418.73 baht today to have 200,000 baht in 4 years at 6% interest.
 
-</details>
 
----
+
+
 
 ### Question 6: Present Value of Annuity
 You will receive 5,000 baht per year for 4 years, discount rate 5%. What is the current value?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -213,17 +198,17 @@ PVA = 17,729.75 baht
 
 **Interpretation:** The current value of receiving 5,000 baht per year for 4 years is 17,729.75 baht.
 
-</details>
 
----
+
+
 
 ### Question 7: Future Value of Annuity
 You save 15,000 baht per year in a retirement fund earning 5%. How much will you have after 10 years?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -262,17 +247,17 @@ FVA = 188,668.39 baht
 
 **Interpretation:** Saving 15,000 baht per year for 10 years at 5% will grow to 188,668.39 baht.
 
-</details>
 
----
+
+
 
 ### Question 8: Solving for Payment
 You want to accumulate 1,000,000 baht in 12 years. You can earn 6% per year, and you will deposit the same amount each year. How much must you deposit each year?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -316,19 +301,19 @@ PMT = 59,277.03 baht
 
 **Interpretation:** You must deposit 59,277.03 baht each year for 12 years at 6% to accumulate 1,000,000 baht.
 
-</details>
 
----
+
+
 
 ## Financial Ratio Problems
 
 ### Question 9: Basic Liquidity Ratio
 You have $9,000 in liquid assets and monthly expenses of $2,500. Calculate your basic liquidity ratio. Is it adequate?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -353,17 +338,17 @@ Ratio = $9,000 / $2,500 = 3.6
 - You can survive **3.6 months** without income using only liquid assets
 - This provides a good emergency fund cushion
 
-</details>
 
----
+
+
 
 ### Question 10: Asset-to-Debt Ratio
 Total assets: $75,000. Total liabilities: $45,000. Calculate asset-to-debt ratio. Are you solvent?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -388,17 +373,17 @@ Ratio = $75,000 / $45,000 = 1.67
 - You own $1.67 for every $1.00 you owe
 - Net Worth = $75,000 - $45,000 = $30,000 (positive)
 
-</details>
 
----
+
+
 
 ### Question 11: Debt Service-to-Income Ratio
 Annual debt payments: $22,000. Gross annual income: $70,000. Calculate debt service-to-income ratio. Is it acceptable?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -424,17 +409,17 @@ Ratio = $22,000 / $70,000 = 0.314 = 31.4%
 - You have manageable debt levels
 - Room for additional debt if needed (but not recommended)
 
-</details>
 
----
+
+
 
 ### Question 12: Investment Assets Ratio
 You are 35 years old. Investment assets: $25,000. Total assets: $100,000. Calculate the ratio. Is it appropriate for your age?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -464,9 +449,9 @@ Ratio = $25,000 / $100,000 = 0.25 = 25%
 - You're on track for retirement savings
 - Consider gradually increasing as you approach your 40s
 
-</details>
 
----
+
+
 
 ## Tax Calculation Problems
 
@@ -475,10 +460,10 @@ Taxable income: $45,000
 Tax brackets: 10% ($0-$8,350), 15% ($8,351-$33,950), 25% ($33,951+)
 Calculate total tax liability.
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Given:**
 - Taxable Income = $45,000
@@ -516,17 +501,17 @@ $835.00 + $3,840.00 + $2,762.50 = $7,437.50
 - **Average Tax Rate:** $7,437.50 / $45,000 = 16.5%
 - **NOT:** $45,000 × 0.25 = $11,250 ❌ (This is wrong!)
 
-</details>
 
----
+
+
 
 ### Question 14: Average Tax Rate
 Gross income: $55,000. Total taxes paid: $8,250. Calculate average tax rate.
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -549,9 +534,9 @@ Average Tax Rate = $8,250 / $55,000 = 0.15 = 15%
 - This is your overall tax burden
 - Average tax rate is always less than marginal tax rate
 
-</details>
 
----
+
+
 
 ### Question 15: Tax Credit vs. Deduction
 You're in the 28% marginal tax bracket. Compare:
@@ -560,10 +545,10 @@ You're in the 28% marginal tax bracket. Compare:
 
 Which saves more money?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Given:**
 - Marginal Tax Rate = 28%
@@ -596,17 +581,17 @@ Tax Savings = $2,000
 - Credit provides **$1,440 more savings**
 - Tax credits are always better than deductions of the same amount!
 
-</details>
 
----
+
+
 
 ### Question 16: 401(k) Tax Savings
 You contribute $5,000 to your 401(k). Your marginal tax rate is 25%. How much do you save in taxes?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -634,19 +619,19 @@ Tax Savings = $5,000 × 0.25 = $1,250
 - Without 401(k): Pay taxes on $5,000 = $1,250 in taxes
 - With 401(k): Save $5,000 + avoid $1,250 in taxes = Win-win!
 
-</details>
 
----
+
+
 
 ## Real vs. Nominal Income Problems
 
 ### Question 17: Real Income Change
 Current salary: $45,000. New salary: $47,500. Inflation: 3.5%. Calculate real income change.
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Given:**
 - Current Salary = $45,000
@@ -690,9 +675,9 @@ Real Income = $45,927
 - But inflation ate $1,573 of it
 - Your real purchasing power only increased by $927 (2.06%)
 
-</details>
 
----
+
+
 
 ## Budgeting Problems
 
@@ -701,10 +686,10 @@ Assets: Checking $2,000, Savings $5,000, Car $15,000, House $200,000
 Liabilities: Credit card $3,000, Car loan $8,000, Mortgage $150,000
 Calculate net worth.
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -757,9 +742,9 @@ Net Worth = $61,000
 - You are **solvent** (positive net worth)
 - Asset-to-debt ratio: $222,000 / $161,000 = 1.38 (good!)
 
-</details>
 
----
+
+
 
 ### Question 19: Cash Flow Surplus/Deficit
 Monthly income: $5,000
@@ -767,10 +752,10 @@ Fixed expenses: $2,500 (rent, car payment, insurance)
 Variable expenses: $1,800 (food, utilities, entertainment)
 Calculate surplus or deficit.
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula:**
 ```
@@ -811,19 +796,19 @@ Surplus = $700
 - Variable expenses: 36% (good)
 - Surplus: 14% (excellent savings rate!)
 
-</details>
 
----
+
+
 
 ## Rule of 72 Problems
 
 ### Question 20: Doubling Time
 You invest at 9% annual return. How long until your money doubles?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula (Rule of 72):**
 ```
@@ -854,17 +839,17 @@ $2,000 = $1,000(1.9926)
 $2,000 ≈ $1,993 ✓ (close!)
 ```
 
-</details>
 
----
+
+
 
 ### Question 21: Required Return
 You want to double your money in 6 years. What return do you need?
 
-<details>
-<summary>💡 Click to see solution</summary>
 
----
+#### 💡 Solution
+
+
 
 **Formula (Rule of 72 - Rearranged):**
 ```
@@ -899,9 +884,9 @@ $2,000 = $1,000(1.9738)
 $2,000 ≈ $1,974 ✓ (close!)
 ```
 
-</details>
 
----
+
+
 
 ## Exam Tips for Practice
 
@@ -913,6 +898,6 @@ $2,000 ≈ $1,974 ✓ (close!)
 - ✅ **Double-check calculations** - use calculator carefully
 - ✅ **Read carefully** - is it asking for PV or FV? Annual or monthly?
 
----
+
 
 [← Previous: Tax Management](08-Tax-Management.md) | [Back to Home](README.md) | [Next: Quick Reference →](Quick-Reference.md)
