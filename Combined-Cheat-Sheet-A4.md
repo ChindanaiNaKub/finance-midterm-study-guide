@@ -11,6 +11,7 @@ Simple Interest:        I = P × r × t
 
 Compound Interest:      FV = PV(1 + r)^t
                        PV = FV / (1 + r)^t
+                       PV = FV(1 + r)^(-t)  [Alternative form]
 
 Rule of 72:            Years = 72 ÷ Interest Rate
 
@@ -81,7 +82,7 @@ Emergency Fund = 3-6 months × (Monthly Income × 0.7)
 
 **Marginal vs Average:**
 - Marginal = Rate of last dollar earned
-- Average = Total Tax / Gross Income
+- Average Tax Rate = Total Tax / Gross Income
 
 **Tax Credits > Deductions:**
 - Credit reduces tax directly: $1,000 credit = $1,000 savings
@@ -155,6 +156,15 @@ Discretionary Income = Income after necessities
 Budget Variance = Budgeted - Actual
 ```
 
+### 💡 ECONOMIC DECISION MAKING
+
+```
+Opportunity Cost = Return from Best Alternative - Return from Chosen Option
+
+Marginal Analysis: Choose if Marginal Utility > Marginal Cost
+Marginal Cost = Cost of Option B - Cost of Option A
+```
+
 ---
 
 ### 💵 INCOME & INFLATION
@@ -165,6 +175,8 @@ Nominal Income Change % = [(New - Old) / Old] × 100
 Real Income Change % = Nominal Change % - Inflation %
 
 Real Income = Old Income × (1 + Real Change)
+
+Average Tax Rate = Total Tax / Gross Income
 ```
 
 ---
@@ -407,6 +419,10 @@ Pay late → Late Fee + Credit Score down ❌
 
 ❌ Value assets at purchase price vs. fair market value
 
+❌ Forgetting to subtract 1 in annuity formulas
+
+❌ Confusing which formula to use (PV vs FV, lump sum vs annuity)
+
 ---
 
 ### 🎯 EXAM QUICK TIPS
@@ -463,6 +479,28 @@ Pay late → Late Fee + Credit Score down ❌
 **Debt Management:** Pay credit cards in full every month
 
 **Emergency Fund:** 3-6 months × Income × 0.7
+
+---
+
+### 📋 QUICK FORMULA REFERENCE TABLE
+
+| What to Find | Formula |
+| --- | --- |
+| **Future value (lump sum)** | FV = PV(1 + r)^t |
+| **Present value (lump sum)** | PV = FV / (1 + r)^t |
+| **Future value (annuity)** | FVA = PMT × [(1+r)^t - 1] / r |
+| **Present value (annuity)** | PVA = PMT × [1 - 1/(1+r)^t] / r |
+| **Simple interest** | I = P × r × t |
+| **Years to double** | 72 ÷ Interest Rate |
+| **Net worth** | Assets - Liabilities |
+| **Basic liquidity ratio** | Liquid Assets / Monthly Expenses |
+| **Asset-to-debt ratio** | Total Assets / Total Liabilities |
+| **Debt service ratio** | Annual Debt / Gross Income |
+| **Investment ratio** | Investment Assets / Total Assets |
+| **Real income change** | Nominal % - Inflation % |
+| **Average tax rate** | Total Tax / Gross Income |
+| **Opportunity cost** | Best Alternative - Chosen Option |
+| **Marginal cost** | Cost B - Cost A |
 
 ---
 
