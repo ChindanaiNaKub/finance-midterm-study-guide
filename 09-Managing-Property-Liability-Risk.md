@@ -120,22 +120,25 @@ Insurable losses must be:
 - Example: you pay 20%, insurer pays 80%.
 
 ### Deductible + coinsurance reimbursement
-If a policy has deductible \(D\) and coinsurance percentage paid by the insured \(CP\):
+Use this text formula (no special math symbols):
 
-\[
-R = (1 - CP)(L - D)
-\]
+> **Reimbursement** = (1 – coinsurance %) × (Loss – Deductible)
 
 Where:
-- \(R\) = insurer reimbursement  
-- \(L\) = total loss  
-- \(D\) = deductible  
-- \(CP\) = coinsurance share paid by insured  
+- **Reimbursement** = amount insurer pays  
+- **Loss** = total loss amount  
+- **Deductible** = amount you pay first  
+- **Coinsurance %** = share you must pay (for example 0.20 = 20%)  
 
 **Example**
-- \(D = 100\), \(CP = 0.20\), \(L = 1350\)
-- \(R = (1 - 0.20)(1350 - 100) = 0.80 \times 1250 = 1000\)
-- Out-of-pocket = \(1350 - 1000 = 350\)
+- Deductible = 100  
+- Coinsurance = 20% (0.20)  
+- Loss = 1,350  
+
+Calculation:
+- Loss minus deductible = 1,350 – 100 = 1,250  
+- Insurer share = (1 – 0.20) × 1,250 = 0.80 × 1,250 = **1,000**  
+- Out-of-pocket = 1,350 – 1,000 = **350**
 
 ### Hazard reduction vs. loss reduction
 - **Hazard reduction**: reduce probability of loss (e.g., nonsmoker discount)
@@ -157,20 +160,20 @@ Homeowner’s insurance bundles:
 4. How much **liability** protection is needed?
 
 ### Replacement-cost requirement (common rule)
-- Policies often require you to insure the dwelling for **80%** (sometimes 100%) of replacement value \(RV\).
-- Example: \(RV = 200{,}000\) → required insurance \(= 160{,}000\) at 80%.
+- Policies often require you to insure the dwelling for **80%** (sometimes 100%) of replacement value (RV).
+- Example: RV = 200,000 → required insurance = 160,000 at 80%.
 
 ### Replacement-cost reimbursement (partial loss)
-\[
-R = (L - D)\left[\frac{I}{RV \times 0.8 \text{ (or } 1.0\text{)}}\right]
-\]
+Use this text formula:
+
+> **Reimbursement** = (Loss – Deductible) × (Insurance carried ÷ (Replacement value × required %))
 
 Where:
-- \(R\) = reimbursement payable  
-- \(L\) = amount of loss  
-- \(D\) = deductible  
-- \(I\) = insurance carried  
-- \(RV\) = replacement value of dwelling  
+- **Loss** = amount of damage  
+- **Deductible** = what you pay first  
+- **Insurance carried** = your policy’s dwelling limit  
+- **Replacement value** = cost to rebuild the home  
+- **Required %** = 0.80 (80%) or 1.00 (100%), depending on policy
 
 ---
 
@@ -220,13 +223,12 @@ Where:
 ## Practice Problems
 
 ### Problem 1: Deductible + coinsurance
-**Given:** \(L=5{,}000\), \(D=250\), \(CP=0.20\)  
-**Find:** reimbursement \(R\)
+**Given:** Loss = 5,000; Deductible = 250; Coinsurance = 20%  
+**Find:** reimbursement
 
 **Solution:**
-\[
-R = (1-0.20)(5{,}000-250)=0.8 \times 4{,}750 = 3{,}800
-\]
+- Loss – Deductible = 5,000 – 250 = 4,750  
+- Reimbursement = (1 – 0.20) × 4,750 = 0.8 × 4,750 = **3,800**
 
 ### Problem 2: Large-loss principle (concept)
 You have a phone you could replace tomorrow, and a potential liability claim that could bankrupt you.  

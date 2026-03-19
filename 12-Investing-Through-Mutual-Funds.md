@@ -26,9 +26,8 @@
 - Open-end funds stand ready to buy/sell shares at the fund’s NAV (end-of-day price).
 
 ### Formula
-\[
-NAV = \frac{\text{Market Value of Assets} - \text{Market Value of Liabilities}}{\text{Number of Shares Outstanding}}
-\]
+
+> **NAV** = (Market value of assets – Market value of liabilities) ÷ Number of shares outstanding
 
 ### Example
 - Assets: $100,000,000  
@@ -214,15 +213,14 @@ A fund has assets of $80M, liabilities of $8M, and 9M shares outstanding.
 **Find:** NAV
 
 **Solution:**
-\[
-NAV = \frac{80 - 8}{9} = \frac{72}{9} = 8.00
-\]
+- Assets – Liabilities = 80 – 8 = 72  
+- NAV = 72 ÷ 9 = **8.00**
 
 ### Problem 2: Load impact
 You invest $5,000 in a load fund with a 6% front-end load.  
 **How much is actually invested?**
 
-**Solution:** \(5{,}000(1-0.06)=4{,}700\).
+**Solution:** 5,000 × (1 – 0.06) = 5,000 × 0.94 = **4,700**.
 
 ---
 

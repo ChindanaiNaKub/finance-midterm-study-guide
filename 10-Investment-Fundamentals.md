@@ -53,14 +53,13 @@ Total return comes from:
 - **Capital gain (or loss)**: change in value realized when you sell
 
 ### Capital gain example structure
-\[
-\text{Capital Gain} = \text{Sale Proceeds} - \text{Purchase Cost} - \text{Transaction Costs}
-\]
+Use this text formula:
+
+> **Capital Gain** = Sale proceeds – Purchase cost – Transaction costs
 
 ### Rate of return (yield)
-\[
-\text{Yield} = \frac{\text{Total Return}}{\text{Price Paid}}
-\]
+
+> **Yield** = Total return ÷ Price paid
 
 ---
 
@@ -210,8 +209,8 @@ You buy an investment for $4,500. You receive $300 in dividends and sell later f
 **Find:** total return and yield.
 
 **Solution:**
-- Total return \(= 300 + 500 = 800\)
-- Yield \(= 800/4{,}500 = 0.1778 = 17.78\%\)
+- Total return = 300 + 500 = **800**
+- Yield = 800 ÷ 4,500 = 0.1778 ≈ **17.78%**
 
 ### Problem 2: Debt vs. equity (concept)
 Which investment type has fixed income and fixed maturity?  

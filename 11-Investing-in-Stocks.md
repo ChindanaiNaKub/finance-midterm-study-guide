@@ -68,9 +68,8 @@
 ## Stock Characteristics and Classifications
 
 ### Price/Earnings (P/E) ratio
-\[
-P/E = \frac{\text{Market Price per Share}}{\text{Earnings per Share (EPS)}}
-\]
+
+> **P/E ratio** = Market price per share ÷ Earnings per share (EPS)
 
 Interpretation (lecture patterns):
 - Lower P/E often correlates with higher dividend yield, less risk, slower growth.
@@ -115,47 +114,39 @@ Interpretation (lecture patterns):
 ## Measuring Expected Stock Returns (Key Metrics)
 
 ### Earnings per share (EPS)
-\[
-EPS = \frac{\text{Annual Profit (after preferred)}}{\text{Common Shares Outstanding}}
-\]
+
+> **EPS** = Annual profit (after preferred) ÷ Common shares outstanding
 
 ### Price/Sales (P/S) ratio
 Lecture definition structure:
-- \(P/S\) compares market capitalization to annual sales.
+- **P/S ratio** compares market capitalization to annual sales.
 
-\[
-P/S = \frac{\text{Market Capitalization}}{\text{Annual Sales}}
-\]
+> **P/S ratio** = Market capitalization ÷ Annual sales
 
 Lecture rule of thumb:
 - Avoid firms with \(P/S > 1.5\)
 - \(P/S < 0.75\) is “good” in the lecture framing
 
 ### Dividends per share
-\[
-\text{Dividends per Share} = \frac{\text{Total Cash Dividends}}{\text{Shares Outstanding}}
-\]
+
+> **Dividends per share** = Total cash dividends ÷ Shares outstanding
 
 ### Dividend payout ratio
 Dividends per share ÷ EPS (or total dividends ÷ total earnings).
 
-\[
-\text{Payout Ratio} = \frac{\text{Dividends}}{\text{Earnings}}
-\]
+> **Payout ratio** = Dividends ÷ Earnings
 
 Interpretation:
 - Lower payout ratio can imply more retained earnings for growth (potential capital gains).
 
 ### Dividend yield
-\[
-\text{Dividend Yield} = \frac{\text{Annual Dividend per Share}}{\text{Market Price per Share}}
-\]
+
+> **Dividend yield** = Annual dividend per share ÷ Market price per share
 
 ### Book value and book value per share
 - **Book value**: assets − liabilities (shareholders’ equity).
-\[
-\text{Book Value per Share} = \frac{\text{Shareholders' Equity}}{\text{Shares Outstanding}}
-\]
+
+> **Book value per share** = Shareholders’ equity ÷ Shares outstanding
 
 Lecture signal:
 - If book value per share exceeds market price per share, the stock may be underpriced.
@@ -202,22 +193,22 @@ Lecture signal:
 ## Practice Problems
 
 ### Problem 1: P/E ratio
-Market price \(= 25\). EPS \(= 1.60\).  
-**Find:** \(P/E\)
+Market price = 25. EPS = 1.60.  
+**Find:** P/E
 
-**Solution:** \(25/1.60 = 15.625 \approx 16\).
+**Solution:** 25 ÷ 1.60 = 15.625 ≈ **16**.
 
 ### Problem 2: EPS
-Net profit after preferred \(= 32{,}000\). Shares \(= 20{,}000\).  
+Net profit after preferred = 32,000. Shares = 20,000.  
 **Find:** EPS
 
-**Solution:** \(32{,}000/20{,}000 = 1.60\).
+**Solution:** 32,000 ÷ 20,000 = **1.60**.
 
 ### Problem 3: Dividend yield
-Dividend per share \(= 0.40\). Market price \(= 25\).  
+Dividend per share = 0.40. Market price = 25.  
 **Find:** dividend yield
 
-**Solution:** \(0.40/25 = 0.016 = 1.6\%\).
+**Solution:** 0.40 ÷ 25 = 0.016 = **1.6%**.
 
 ---
 

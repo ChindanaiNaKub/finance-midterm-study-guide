@@ -20,9 +20,9 @@ A comprehensive study guide for the Personal Finance **final exam** (risk/insura
 6. [Retirement Planning](14-Retirement-Planning.md)
 
 ### Quick Study Resources
-- [Quick Reference Cheat Sheet](Quick-Reference.md)
-- [Key Formulas](Key-Formulas.md)
-- [Practice Questions (Midterm set)](Practice-Questions.md)
+- [Quick Reference Cheat Sheet](Quick-Reference.md) - fast review for **midterm + final**
+- [Key Formulas](Key-Formulas.md) - all core formulas used on the **final**
+- [Practice Questions](Practice-Questions.md) - midterm-style problems that still prep you for the **final**
 
 ---
 

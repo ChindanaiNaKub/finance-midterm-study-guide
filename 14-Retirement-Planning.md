@@ -70,8 +70,8 @@ Given (lecture story):
 Nest egg math (lecture results):
 - Needed at retirement for the shortfall: **$238,040** (using assumption of returns 3% above inflation and 20 years of income need)
 - Current retirement savings: $37,000
-- FV of current savings at 3% over 27 years: **$82,188**
-- Remaining nest egg needed: \(238{,}040 - 82{,}188 = 155{,}852\)
+- Future value of current savings at 3% over 27 years: **$82,188**
+- Remaining nest egg needed: 238,040 – 82,188 = **155,852**
 - Required annual saving to reach $155,852 in 27 years at 3%: **$3,828/year**
 - If already saving $2,000/year in 401(k), additional needed: **$1,828/year** (~$153/month)
 
@@ -97,16 +97,14 @@ Nest egg math (lecture results):
 3. Amount withdrawn each year
 
 ### Withdrawal calculation (PV annuity idea)
-If you want a nest egg \(PV\) to last \(t\) years at return \(r\), annual withdrawal \(PMT\) is:
+If you want a nest egg PV to last t years at return r, annual withdrawal PMT is:
 
-\[
-PMT = \frac{PV}{\text{PVA factor}(r,t)}
-\]
+> **PMT** = PV ÷ PVA factor(r, t)
 
 Lecture example:
-- \(PV = 250{,}000\), \(r=6\%\)
-  - 20 years: PVA factor \(= 11.4699\) → \(PMT = 250{,}000/11.4699 = 21{,}796\) (~$1,816/month)
-  - 30 years: factor \(= 13.7648\) → \(PMT = 18{,}162\) (~$1,513/month)
+- PV = 250,000; r = 6%
+  - 20 years: PVA factor = 11.4699 → PMT = 250,000 ÷ 11.4699 = **21,796** (~$1,816/month)
+  - 30 years: factor = 13.7648 → PMT = **18,162** (~$1,513/month)
 
 ---
 
@@ -145,11 +143,11 @@ Lecture example:
 You want $48,000/year in retirement (today’s dollars). Social Security + pension is $30,000/year.  
 **Find:** shortfall.
 
-**Solution:** \(48{,}000 - 30{,}000 = 18{,}000\) per year.
+**Solution:** 48,000 – 30,000 = **18,000** per year.
 
 ### Problem 2: Withdrawal amount (given factor)
 Nest egg is $400,000. If the PVA factor is 12.5, what annual withdrawal does this support?  
-**Solution:** \(400{,}000 / 12.5 = 32{,}000\) per year.
+**Solution:** 400,000 ÷ 12.5 = **32,000** per year.
 
 ---
 

@@ -36,9 +36,8 @@ If you pay out more than rent brings in, you face risks:
 ## Market Checks: Price-to-Rent and Rental Yield
 
 ### Price-to-rent ratio
-\[
-\text{Price-to-Rent} = \frac{\text{Price}}{12 \times \text{Monthly Rent}}
-\]
+
+> **Price-to-rent** = Property price ÷ (12 × monthly rent)
 
 Lecture note:
 - Often ranges roughly **11 to 26** depending on market.
@@ -47,9 +46,7 @@ Lecture note:
 ### Rental yield (income before mortgage, rough screen)
 Lecture formula assumes about half of rent goes to non-debt expenses:
 
-\[
-\text{Rental Yield} = \frac{\text{Annual Rent}/2}{\text{Purchase Price}}
-\]
+> **Rental yield** = (Annual rent ÷ 2) ÷ Purchase price
 
 ---
 
@@ -74,9 +71,8 @@ Lecture formula assumes about half of rent goes to non-debt expenses:
 - Smaller cash down payment can make gains large relative to your cash invested (but true return is reduced by mortgage/interest/taxes/repairs).
 
 ### Loan-to-value (LTV) ratio
-\[
-\text{LTV} = \frac{\text{Debt}}{\text{Property Value (original investment)}}
-\]
+
+> **LTV** = Debt ÷ Property value (original investment)
 
 Higher LTV = more leverage (and more risk).
 
@@ -90,9 +86,8 @@ Higher LTV = more leverage (and more risk).
 
 Lecture example structure:
 - Building portion depreciated over a schedule (e.g., 27.5 years for residential).
-\[
-\text{Annual Depreciation} = \frac{\text{Building Value}}{\text{Depreciation Years}}
-\]
+
+> **Annual depreciation** = Building value ÷ Depreciation years
 
 ### Interest is deductible (in lecture framing)
 - Mortgage interest is often a major deductible expense for rental property operations.
@@ -107,13 +102,11 @@ Lecture example structure:
 ### Key idea
 - Value is the **present value of expected after-tax cash flows**, including sale proceeds.
 
-If required return is \(r\) and cash flows are \(CF_1...CF_5\):
+If required return is r and cash flows are CF1 to CF5:
 
-\[
-\text{Price} = \frac{CF_1}{(1+r)^1} + \frac{CF_2}{(1+r)^2} + \frac{CF_3}{(1+r)^3} + \frac{CF_4}{(1+r)^4} + \frac{CF_5}{(1+r)^5}
-\]
+> **Price** = CF1 ÷ (1 + r)^1 + CF2 ÷ (1 + r)^2 + CF3 ÷ (1 + r)^3 + CF4 ÷ (1 + r)^4 + CF5 ÷ (1 + r)^5
 
-Where \(CF_5\) often includes rent cash flow + **net sale proceeds**.
+Where CF5 often includes rent cash flow plus **net sale proceeds**.
 
 Lecture example outcome:
 - Asking price $200,000 vs PV price $181,080 (too high for a 10% required return).
@@ -197,24 +190,22 @@ Condo price is $390,000 and monthly rent is $1,500.
 **Find:** price-to-rent ratio.
 
 **Solution:**
-\[
-390{,}000/(12 \times 1{,}500) = 390{,}000/18{,}000 = 21.67
-\]
+- 12 × 1,500 = 18,000  
+- 390,000 ÷ 18,000 = **21.67**
 
 ### Problem 2: Rental yield
 Annual rent is $24,000 and purchase price is $200,000.  
 **Find:** rental yield (lecture screen).
 
 **Solution:**
-\[
-(24{,}000/2)/200{,}000 = 12{,}000/200{,}000 = 6\%
-\]
+- Annual rent ÷ 2 = 24,000 ÷ 2 = 12,000  
+- 12,000 ÷ 200,000 = **6%**
 
 ### Problem 3: Capital gain with improvements
 Buy price $120,000. Repairs $1,000. Capital improvements $10,000. Sell for $160,000.  
 **Find:** capital gain.
 
-**Solution:** \(160{,}000 - 120{,}000 - 10{,}000 = 30{,}000\). (Repairs not included in ownership cost in the lecture example.)
+**Solution:** 160,000 – 120,000 – 10,000 = **30,000**. (Repairs not included in ownership cost in the lecture example.)
 
 ---
 
