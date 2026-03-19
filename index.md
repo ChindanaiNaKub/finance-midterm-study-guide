@@ -25,6 +25,7 @@ A comprehensive study guide for Personal Finance midterm exam.
 - [Practice Questions](Practice-Questions.md) - Work through problems with solutions
 - [Quick Reference Cheat Sheet](Quick-Reference.md) - One-page review for exam day
 - [Key Formulas](Key-Formulas.md) - All formulas in one place
+- [Final Exam Study Guide](final-index.md) - Topics 9-14 (risk, investing, retirement)
 
 ---
 
