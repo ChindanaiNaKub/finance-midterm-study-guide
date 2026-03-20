@@ -1,6 +1,6 @@
 # Quick Reference Cheat Sheet
 
-[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](index.md)
+[← Previous: Practice Questions](Practice-Questions.md) | [Midterm Home](index.md) | [Final Exam Home](final-index.md)
 
 ---
 
@@ -144,6 +144,94 @@
 - First-time home buyer: $8,000
 - Child tax credit: $1,000 per child
 - Energy-savings: $2,500
+
+---
+
+## 🎓 Final Exam Cheat Sheet (Topics 9–14)
+
+*Full chapters: [Final Exam Home](final-index.md) → 09–14.*
+
+### Risk & insurance (09)
+
+| Formula / idea | Use |
+|----------------|-----|
+| **Reimbursement** = (1 − coinsurance %) × (Loss − Deductible) | Health / deductible + coinsurance |
+| **Replacement reimbursement** = (Loss − Deductible) × (Insurance carried ÷ (RV × 80% or 100%)) | Partial loss vs. replacement-value rule |
+| **LTV** = Debt ÷ Property value | Leverage in real estate |
+
+**Must-know concepts:** Pure risk (loss only) vs. speculative risk (gain or loss) · 5-step risk management · Avoid / retain / control / transfer · Large-loss principle · Indemnity · Physical vs. morale vs. moral hazard · Deductible ↑ → premium ↓
+
+---
+
+### Investment fundamentals (10)
+
+| Formula / idea | Use |
+|----------------|-----|
+| **Total return** = Current income + Capital gain (or loss) | Stocks, bonds, property |
+| **Yield** = Total return ÷ Price paid | One-year return as % |
+| **Risk premium** | Extra return over “safe” rate (e.g. T-bill) for taking risk |
+
+**Must-know:** Conservative / moderate / aggressive · Active vs. passive · Lending (debt: fixed income + maturity) vs. owning (equity) · Diversification cuts **random (firm-specific)** risk · Match time horizon to risk
+
+---
+
+### Stocks & bonds (11)
+
+| Ratio | Formula | Note |
+|-------|---------|------|
+| **P/E** | Price per share ÷ EPS | Lower often = more income, slower growth |
+| **EPS** | Profit after preferred ÷ Common shares | Profitability per share |
+| **Dividend yield** | Annual dividend per share ÷ Market price | Income focus |
+| **Payout ratio** | Dividends ÷ Earnings | Lower → more retained for growth |
+| **P/S** | Market cap ÷ Annual sales | Lecture: avoid > 1.5; < 0.75 often “good” |
+| **Book value per share** | Shareholders’ equity ÷ Shares | If BV > price → may be underpriced |
+
+**Must-know:** Common (residual claim, votes) vs. preferred (fixed dividend, priority) vs. bond (creditor, interest + maturity) · Beta: 1 = market; >1 more volatile; <1 less
+
+---
+
+### Mutual funds (12)
+
+| Formula / idea | Use |
+|----------------|-----|
+| **NAV** = (MV assets − MV liabilities) ÷ Shares outstanding | Price per fund share |
+| **Load** | Up-front % of purchase; **no-load** = buy at NAV only |
+
+**Must-know:** Open-end (redeem at NAV) · Income vs. growth vs. balanced objectives · Index = unmanaged, low fee · Fees compound—lower cost often wins long run
+
+---
+
+### Real estate & high-risk (13)
+
+| Formula | Use |
+|---------|-----|
+| **Price-to-rent** = Price ÷ (12 × monthly rent) | Higher (e.g. > ~20) → harder rental profit |
+| **Rental yield** = (Annual rent ÷ 2) ÷ Purchase price | Rough screen (half rent to expenses) |
+| **Capital gain** = Sale price − Purchase − Capital improvements | Repairs often separate (lecture) |
+| **DCF price** = Σ CFₜ ÷ (1 + r)ᵗ | Max price for required return r |
+
+**Must-know:** Leverage magnifies equity return · Depreciation on building, not land · Collectibles/metals/gems = mostly appreciation, illiquid, high risk
+
+---
+
+### Retirement (14)
+
+| Formula / idea | Use |
+|----------------|-----|
+| **Shortfall** = Desired retirement income − SS − Pension | Must fund from savings |
+| **Annual withdrawal** = Nest egg ÷ PVA factor(r, years) | How much you can take each year |
+| **Nest egg gap** | PV of shortfall − FV of current savings → then solve PMT to close |
+
+**Must-know:** 80–100% income replacement (rule of thumb) · Diversify; shift safer near retirement · Annuity = lump sum for guaranteed payments
+
+---
+
+### Key Things to Remember (Final)
+- [ ] Deductible first, then apply coinsurance to the **remainder**
+- [ ] P/E, EPS, dividend yield—know which is which
+- [ ] NAV is not “stock price” logic—it’s pool value per share
+- [ ] Price-to-rent and rental yield test rental deals
+- [ ] Retirement math = TVM + shortfall + annuity factors
 
 ---
 
@@ -319,4 +407,4 @@ Net = $750
 
 **Good luck on your exam! 📚✨**
 
-[← Previous: Practice Questions](Practice-Questions.md) | [Back to Home](index.md)
+[← Previous: Practice Questions](Practice-Questions.md) | [Midterm Home](index.md) | [Final Exam Home](final-index.md)

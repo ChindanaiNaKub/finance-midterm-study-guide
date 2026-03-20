@@ -1,6 +1,6 @@
 # Key Formulas Reference
 
-[Back to Home](index.md)
+[Midterm Home](index.md) | [Final Exam Home](final-index.md)
 
 ---
 
@@ -512,6 +512,144 @@ If extra benefits worth less than $60 → Choose regular
 
 ---
 
+## 🎓 Final Exam Formulas (Topics 9–14)
+
+*Topic pages: [Final Exam Home](final-index.md).*
+
+### Insurance: Deductible + coinsurance
+
+```
+Reimbursement = (1 − coinsurance %) × (Loss − Deductible)
+```
+
+**Example:** Loss $1,350, deductible $100, you pay 20% coinsurance  
+Loss after deductible = $1,250 → Reimbursement = 0.80 × $1,250 = **$1,000** → You pay **$350**
+
+---
+
+### Homeowners: Replacement-cost partial loss
+
+```
+Reimbursement = (Loss − Deductible) × (Insurance carried ÷ (Replacement value × required %))
+```
+
+**Required %** is often **80%** (0.80) or **100%** (1.00) of replacement value—check the policy.
+
+---
+
+### Investment: Total return and yield
+
+```
+Total return = Current income + Capital gain (or loss)
+
+Yield = Total return ÷ Price paid
+```
+
+**Example:** Paid $4,500; dividends $300; capital gain $500 → Total return $800 → Yield = 800 ÷ 4,500 ≈ **17.78%**
+
+---
+
+### Stock ratios
+
+```
+P/E ratio = Market price per share ÷ EPS
+
+EPS = Annual profit (after preferred) ÷ Common shares outstanding
+
+Dividend yield = Annual dividend per share ÷ Market price per share
+
+Payout ratio = Dividends ÷ Earnings  (or DPS ÷ EPS)
+
+P/S ratio = Market capitalization ÷ Annual sales
+```
+
+**Lecture rule of thumb:** avoid P/S **> 1.5**; **< 0.75** often favorable.
+
+```
+Book value per share = Shareholders' equity ÷ Shares outstanding
+```
+
+---
+
+### Mutual fund: Net asset value (NAV)
+
+```
+NAV = (Market value of assets − Market value of liabilities) ÷ Shares outstanding
+```
+
+**Example:** Assets $100M, liabilities $5M, 10M shares → NAV = 95M ÷ 10M = **$9.50**
+
+---
+
+### Mutual fund: Load (amount invested)
+
+```
+Amount invested = Amount paid × (1 − load %)
+```
+
+**Example:** $10,000 with 8.5% load → 10,000 × 0.915 = **$9,150** invested
+
+---
+
+### Real estate
+
+```
+Price-to-rent = Property price ÷ (12 × monthly rent)
+
+Rental yield = (Annual rent ÷ 2) ÷ Purchase price
+```
+*(Lecture screen: half of rent to non-debt expenses.)*
+
+```
+LTV (loan-to-value) = Debt ÷ Property value
+
+Capital gain = Sale price − Purchase price − Capital improvements
+```
+*(Repairs may be treated separately in examples.)*
+
+```
+Annual depreciation (building only) = Building value ÷ Depreciation years
+```
+
+**Discounted cash flow (property value):**
+
+```
+Price = CF1/(1+r)¹ + CF2/(1+r)² + CF3/(1+r)³ + CF4/(1+r)⁴ + CF5/(1+r)⁵
+```
+
+*(Last period often includes sale proceeds.)*
+
+---
+
+### Retirement
+
+```
+Income shortfall = Desired retirement income − Social Security − Pension
+
+Annual withdrawal (given PVA factor) = Nest egg ÷ PVA factor(r, years)
+```
+
+**Nest egg planning:** Find PV of the annual shortfall over retirement years, subtract future value of current savings, then use annuity formula to find required **PMT** (annual save) to close the gap.
+
+**Income replacement (rule of thumb):** often **80–100%** of pre-retirement gross income (including SS), depending on lifestyle.
+
+---
+
+### Final exam quick table
+
+| What you need | Formula |
+|---------------|---------|
+| Insurer pays (deductible + coinsurance) | (1 − CP) × (L − D) |
+| Partial loss reimbursement (home) | (L − D) × (I ÷ (RV × 0.8 or 1.0)) |
+| Fund share price | NAV |
+| Stock valuation ratios | P/E, EPS, yield, P/S, book value/sh |
+| Rental deal screen | Price-to-rent; rental yield |
+| Leverage | LTV |
+| Max price for property (DCF) | Sum of PV of cash flows |
+| How much can I withdraw? | Nest egg ÷ PVA factor |
+
+---
+
 ## 🎯 Quick Reference Table
 
 | What You Want to Find | Formula to Use |
@@ -568,4 +706,4 @@ If extra benefits worth less than $60 → Choose regular
 
 **Print this page for quick exam reference! 📄**
 
-[Back to Home](index.md)
+[Midterm Home](index.md) | [Final Exam Home](final-index.md)
